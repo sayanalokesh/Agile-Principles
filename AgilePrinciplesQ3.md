@@ -1,24 +1,24 @@
 **Question 3: User Stories and Backlog Refinement**
 
-**3.1 Elaborate on the concept of "user stories" in Agile. How do user stories help bridge communication gaps between developers and stakeholders? How can user stories be utilized to prioritize tasks in a DevOps pipeline?**
+### *3.1 Elaborate on the concept of "user stories" in Agile. How do user stories help bridge communication gaps between developers and stakeholders? How can user stories be utilized to prioritize tasks in a DevOps pipeline?*
 
 
-**Q: What Are User Stories in Agile? 📖**
+**What Are User Stories in Agile? 📖**
 
 User stories in Agile are like short and sweet notes 📝 that tell us what a piece of software should do. They're like a "to-do" list for the software team. Instead of complex jargon, we use everyday language, so everyone gets what needs to be done.
 
-**Q: How Do User Stories Bring Everyone Together? 🤝**
+**How Do User Stories Bring Everyone Together? 🤝**
 
 Imagine you and your friend are planning a road trip 🚗. You both write down what you want to do and why. It's like making a list of your road trip goals. User stories are a bit like that – they help developers and the folks who want the software (stakeholders) understand each other.
 
-**Q: Prioritizing Tasks with User Stories in DevOps 🚀**
+**Prioritizing Tasks with User Stories in DevOps 🚀**
 
 Let's say: You have a bunch of homework 📚. Some assignments are super important, and others can wait. User stories help you figure out which homework to tackle first. In the world of software (DevOps), teams use user stories to decide which tasks are the most urgent.
 
 So, user stories are like the friendly notes that make sure everyone's on the same page, whether you're building software or planning a road trip! 📝🤗
 
 
-**3.2 Explain the importance of backlog refinement in Agile methodology. Detail the activities involved in backlog refinement and how it contribute to effective sprint planning and execution in a DevOps environment.**
+### *3.2 Explain the importance of backlog refinement in Agile methodology. Detail the activities involved in backlog refinement and how it contribute to effective sprint planning and execution in a DevOps environment.*
 
 
 **Importance of Backlog Refinement**

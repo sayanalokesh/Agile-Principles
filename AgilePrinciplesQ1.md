@@ -5,7 +5,7 @@
 
 **Question 1: Agile Principles**
 
-**1.1 Explain the Core Principles of Agile Methodology. How do these principles emphasize adaptability and customer collaboration?**
+### *1.1 Explain the Core Principles of Agile Methodology. How do these principles emphasize adaptability and customer collaboration?*
 
 **Introduction:** Agile methodology is all about flexibility, collaboration 🤝, and iterative development. It breaks projects into manageable pieces and aims for continuous improvement. Let's dive into the core principles!
 
@@ -33,7 +33,7 @@
 
 
 
-**1.2 Describe how Agile principles align with the DevOps philosophy. Provide specific examples of how Agile principles can contribute to faster delivery cycles and improved software quality in a DevOps environment.**
+### *1.2 Describe how Agile principles align with the DevOps philosophy. Provide specific examples of how Agile principles can contribute to faster delivery cycles and improved software quality in a DevOps environment.*
 
 
 **Agile and DevOps - A Perfect Match!**
