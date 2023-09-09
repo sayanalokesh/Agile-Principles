@@ -9,25 +9,25 @@
 
 **Introduction:** Agile methodology is all about flexibility, collaboration 🤝, and iterative development. It breaks projects into manageable pieces and aims for continuous improvement. Let's dive into the core principles!
 
-**1. Individuals and Interactions Over Processes and Tools:** Agile starts with people 👥. We talk, collaborate, and value every team member. Processes and tools are here to help, not boss us around! 😄
+***1. Individuals and Interactions Over Processes and Tools:*** Agile starts with people 👥. We talk, collaborate, and value every team member. Processes and tools are here to help, not boss us around! 😄
 
-**2. Working Software Over Comprehensive Documentation:** Say goodbye to excessive paperwork! Agile teams use user stories 📝, so developers get to work faster, and the software gets ready for release quicker. 🚀
+***2. Working Software Over Comprehensive Documentation:*** Say goodbye to excessive paperwork! Agile teams use user stories 📝, so developers get to work faster, and the software gets ready for release quicker. 🚀
 
-**3. Customer Collaboration Over Contract Negotiation:** We prefer chatting with customers 🗣️ rather than endless contract negotiations. They join us during development, give feedback 📣, and shape the product. 🛠️
+***3. Customer Collaboration Over Contract Negotiation:*** We prefer chatting with customers 🗣️ rather than endless contract negotiations. They join us during development, give feedback 📣, and shape the product. 🛠️
 
-**4. Responding to Change Over Following a Plan:** Change is the only constant in Agile. We're flexible and adapt to evolving requirements, market shifts, and customer feedback. 🔄
+***4. Responding to Change Over Following a Plan:*** Change is the only constant in Agile. We're flexible and adapt to evolving requirements, market shifts, and customer feedback. 🔄
 
-**Emphasis on Adaptability in Agile Methodology:** Agile screams adaptability! 👏
+***Emphasis on Adaptability in Agile Methodology:*** Agile screams adaptability! 👏
 1. **Iterative Development:** We break projects into sprints 🏃‍♂️, review often, and tweak as needed. No rigid plans here!
 2. **Continuous Improvement:** We reflect regularly 🧐, identify improvements, and get better at what we do. 💪
 3. **Flexibility in Embracing Change:** Change? Bring it on! We adjust plans, reprioritize, and stay aligned with customer needs. 🌟
 
-**Emphasis on Customer Collaboration in Agile Methodology:** We're all about customers' voices! 🗣️
+***Emphasis on Customer Collaboration in Agile Methodology:*** We're all about customers' voices! 🗣️
 1. **Active Involvement:** Customers are in the driver's seat, joining us from start to finish. 🚗
 2. **Frequent Feedback Loops:** We talk to customers often, get their input, and keep improving. 📈
 3. **Prioritizing Customer Value:** Their satisfaction is our top goal. We listen, understand priorities, and deliver value. 💎
 
-**Conclusion:** Agile principles = adaptability and customer happiness. By valuing people, delivering working software, collaborating with customers, and embracing change, we stay flexible and continuously improve. Agile rocks! 🚀🤩
+***Conclusion:*** Agile principles = adaptability and customer happiness. By valuing people, delivering working software, collaborating with customers, and embracing change, we stay flexible and continuously improve. Agile rocks! 🚀🤩
 
 **Sources:** Curious about Agile? Check out our sources! [📖](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
 
@@ -36,18 +36,18 @@
 ### *1.2 Describe how Agile principles align with the DevOps philosophy. Provide specific examples of how Agile principles can contribute to faster delivery cycles and improved software quality in a DevOps environment.*
 
 
-**Agile and DevOps - A Perfect Match!**
+***Agile and DevOps - A Perfect Match!***
 
 🤝 Imagine Agile and DevOps as the ultimate power duo, working hand in hand like Zoro and Sanji (from One Piece 😍) to deliver software faster and better! 💥 Let's dive into how Agile principles and DevOps philosophy align perfectly, with real-life examples that make it all come to life. 🌐
 
-**1. Individuals and Interactions Over Processes and Tools**
+***1. Individuals and Interactions Over Processes and Tools***
 
 💬 Agile: "People First!"
 
 In Agile, we prioritize people and their interactions. This principle aligns beautifully with DevOps. Think of it as your favorite team sport, like Cricket. In Cricket, players need to communicate, and work together seamlessly. Similarly, in DevOps, teams must communicate and collaborate effectively to automate processes.
 
 
-**2. Working Software Over Comprehensive Documentation**
+***2. Working Software Over Comprehensive Documentation***
 
 📝 Agile: "Show Me the Code!"
 
@@ -56,7 +56,7 @@ Agile's focus on working software is DevOps' best friend. It's like ordering foo
 **Real-Life Example:**
 You order a pizza 🍕 online, and within minutes, it's at your doorstep – hot, delicious, and ready to enjoy! This is like DevOps delivering working software swiftly.
 
-**3. Customer Collaboration Over Contract Negotiation**
+***3. Customer Collaboration Over Contract Negotiation***
 
 🤝 Agile: "Customer in the House!"
 
@@ -65,7 +65,7 @@ Agile is all about keeping the customer involved throughout. In the DevOps realm
 **Real-Life Example:**
 You're building an epic sandcastle, and your friends suggest ideas and help shape it. That's like customers actively participating in the DevOps process, ensuring the software aligns with their needs.
 
-**4. Responding to Change Over Following a Plan**
+***4. Responding to Change Over Following a Plan***
 
 🔄 Agile: "Change is Good!"
 
@@ -74,7 +74,7 @@ Agile is the master of adaptability. Think of it as a GPS guiding you through tr
 **Real-Life Example:**
 You're on a road trip, and your GPS reroutes you due to traffic – you adapt and reach your destination faster. This is like DevOps embracing change, delivering software that aligns better with customer needs.
 
-**How Agile Supercharges DevOps for Faster Delivery and Quality:**
+***How Agile Supercharges DevOps for Faster Delivery and Quality:***
 
 🚀 Agile's 'Iterative Development' means DevOps teams continuously integrate and test code. Just like a chef taste-testing a dish, DevOps detects issues early, ensuring faster delivery with fewer glitches.
 
@@ -86,5 +86,5 @@ You're on a road trip, and your GPS reroutes you due to traffic – you adapt an
 
 
 
-**Conclusion:**
+***Conclusion:***
 Agile and DevOps are like a dynamic duo, helping teams achieve faster delivery cycles and improved software quality. It's all about people, working software, collaboration, and adaptability, creating a winning combination in the world of software development! 🌟👏
